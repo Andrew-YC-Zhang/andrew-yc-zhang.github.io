@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Zhang (张运筹)"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Andrew"
 description              : &description "personal description"
