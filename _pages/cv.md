@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, University of Hong Kong, 2025 (expected)
+* Master in Economics, University of Hong Kong, 2018
+* Bachelor of Economics and Finance (with First Class Honours), University of Hong Kong, 2016
+  * Exchange Programme, McGill University - Desautels Faculty of Management, 2014
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Organizational Economics, Contract Theory, Personnel Economics
   
+Honors and Awards
+======
+* Postgraduate Scholarships, 2018-2022
+* FBE PhD Entrance Scholarship, 2018-2019
+* First Class Honours, 2016
+* Beta Gamma Sigma, 2016
+* C.V. Starr Scholarships, 2014
+* Dean’s Honours List, 2012-2016
+* HKU Foundation Scholarships for Outstanding Mainland Students, 2012-2016
+
+Teaching Assistant Experience
+======
+* **Undergraduate**: Games and Decisions, Economics of Networks, Intermediate Macroeconomics
+* **MEcon**: Macroeconomic Analysis
+* **MBA**: Capstone Project
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Language**: Mandarin (native), English (proficient), Cantonese (fluent)
+* **Software**: Proficient in Microsoft Office and Latex; Basic knowledge in Stata, MATLAB, R, SAS
