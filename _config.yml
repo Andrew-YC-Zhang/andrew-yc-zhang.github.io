@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Andrew Zhang"
+  name             : "Andrew Zhang
+  张运筹"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
   location         : "Hong Kong"
