@@ -8,7 +8,7 @@ author_profile: true
 
 # Working Papers
 
-## Optimal Rule Enforcement (with Hanzhe Li and [Jin Li](http://www.jin-li.org/))
+## Optimal Rule Enforcement (with [Hanzhe Li](https://sites.google.com/view/hanzheli) and [Jin Li](http://www.jin-li.org/))
 ### *Job Market Paper*
 While rules are often seen as rigid, their enforcement can be flexible. We develop a model to study the optimal enforcement of rules in an employment relationship, identifying two categories of relational contracts: manager-led approach andworker-led approach. The manager-led approach, involving cycles of rule enforcement, arises when enforcement costs are low. The worker-led approach, used when enforcement costs rise and surplus grows, relies on worker self-regulation, with the threat of termination motivating effort. In a subcategory of the worker-led approach, rules are enforced initially, before letting the worker to self-regulate.
 
@@ -18,6 +18,6 @@ This paper develops a relational contracting model to study how the managers can
 <br>
 
 # Work in Progress
-### Pay for Crisis (with Hanzhe Li and [Jin Li](http://www.jin-li.org/))
+### Pay for Crisis (with [Hanzhe Li](https://sites.google.com/view/hanzheli) and [Jin Li](http://www.jin-li.org/))
 ### Promotion or Training: A Model of Talent Hoarding
-### Managing KOLs in Wanghong Economy (with Hanzhe Li)
+### Managing KOLs in Wanghong Economy (with [Hanzhe Li](https://sites.google.com/view/hanzheli))
