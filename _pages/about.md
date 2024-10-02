@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 Hello, I'm Andrew!
 
 I am currently a Ph.D. Candidate in Economics at the Faculty of Business and Economics, University of Hong Kong. 
