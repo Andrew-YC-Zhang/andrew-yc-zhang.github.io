@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
   location         : "Hong Kong"
-  employer         : "[University of Hong Kong](https://www.hkubs.hku.hk/people/yunchou-zhang/)"
-  uri              : # URL
+  employer         : "University of Hong Kong"
+  uri              : "https://www.hkubs.hku.hk/people/yunchou-zhang/"
   email            : "zyc616@connect.hku.hk" 
 
   # Academic websites
