@@ -11,7 +11,7 @@ redirect_from:
 
 <br>
 
-[Download PDF](https://andrew-yc-zhang.github.io/files/CV_Andrew%20(Yunchou)%20ZHANG.pdf)
+[Download PDF](https://andrew-yc-zhang.github.io/files/CV.pdf)
 ======
 
 <br>
