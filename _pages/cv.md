@@ -47,3 +47,17 @@ Skills
 ======
 * **Language**: Mandarin (native), English (proficient), Cantonese (fluent)
 * **Software**: Proficient in Microsoft Office and Latex; Basic knowledge in Stata, MATLAB, R, SAS
+
+References
+======
+[Prof. Jin LI](https://www.hkubs.hku.hk/people/jin-li) <br>
+Faculty of Business and Economics <br>
+University of Hong Kong <br>
+
+[Prof. Yanhui WU](https://www.hkubs.hku.hk/people/yanhui-wu) <br>
+Faculty of Business and Economics <br>
+University of Hong Kong <br>
+
+[Prof. Michael B. WONG](https://www.hkubs.hku.hk/people/michael-b-wong/) <br>
+Faculty of Business and Economics <br>
+University of Hong Kong
