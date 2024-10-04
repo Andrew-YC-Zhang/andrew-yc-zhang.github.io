@@ -11,8 +11,8 @@ author_profile: true
 
 # Working Papers
 
-### *Job Market Paper*
-## Optimal Rule Enforcement (with [Hanzhe Li](https://sites.google.com/view/hanzheli) and [Jin Li](http://www.jin-li.org))
+
+## Optimal Rule Enforcement (with [Hanzhe Li](https://sites.google.com/view/hanzheli) and [Jin Li](http://www.jin-li.org)) (### *Job Market Paper*)
 
 
 ## Optimal Talent Hoarding (with [Jin Li](http://www.jin-li.org))
