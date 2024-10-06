@@ -7,7 +7,7 @@
 
 .about-profile img {
   max-width: 250px; /* Adjust the size as needed */
-  border-radius: 50%; /* Makes the image circular if it's square */
+  /* border-radius: 50%;  Makes the image circular if it's square */
 }
 
 .about-description {
