@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome to My Homepage!"
 author_profile: false
+classes: about-page
 redirect_from: 
   - /about/
   - /about.html
