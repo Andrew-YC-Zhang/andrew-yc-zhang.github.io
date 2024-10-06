@@ -2,17 +2,25 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 20px 0;
+  width: 100%;
+  padding: 20px; /* Add padding for some empty space around the elements */
+  box-sizing: border-box; /* Ensure padding is included in the total width */
 }
 
-.about-profile img {
-  max-width: 250px; /* Adjust the size as needed */
-  /* border-radius: 50%;  Makes the image circular if it's square */
+.about-profile {
+  flex: 0 0 30%; /* Make the profile take up 30% of the container's width */
+  max-width: 30%; /* Ensure it doesn't grow beyond 30% */
+  img {
+    width: 100%; /* Make the image take up the full width of the profile container */
+    max-width: 250px; /* Adjust the size as needed */
+    /* border-radius: 50%;  Makes the image circular if it's square */
+  }
 }
 
 .about-description {
-  flex-grow: 1;
-  margin-left: 20px;
+  flex: 0 0 70%; /* Make the description take up 70% of the container's width */
+  max-width: 70%; /* Ensure it doesn't grow beyond 70% */
+  margin-left: 20px; /* Add some space between the profile and the description */
 }
 
 @media (max-width: 768px) {
