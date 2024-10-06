@@ -34,19 +34,6 @@
   }
 }
 
-.about-page {
-  .page {
-    float: left;
-    width: 100%;
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-left: 0;
-    }
-  }
-
 .page__title {
   margin-top: 0;
   line-height: 1;
