@@ -400,11 +400,15 @@
   text-transform: uppercase;
 }
 
+.about-page #main {
+  max-width: 100% !important;  // Ensure it takes the full width
+}
+
 .about-page .page {
   @include breakpoint($large) {
-    @include span(12 of 12);  // Make it span the full 12 columns
-    @include prefix(0 of 12); // Remove any prefix
-    @include suffix(0 of 12); // Remove any suffix
+    @include span(12 of 12) !important;  // Make it span the full 12 columns
+    @include prefix(0 of 12) !important; // Remove any prefix
+    @include suffix(0 of 12) !important; // Remove any suffix
   }
 
   .page__inner-wrap {
