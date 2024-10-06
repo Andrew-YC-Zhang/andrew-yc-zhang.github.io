@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to My Homepage!"
-author_profile: true
+author_profile: false
 sidebar: false
 redirect_from: 
   - /about/
