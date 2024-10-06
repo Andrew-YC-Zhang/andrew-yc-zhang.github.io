@@ -1,0 +1,28 @@
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.about-profile img {
+  max-width: 250px; /* Adjust the size as needed */
+  border-radius: 50%; /* Makes the image circular if it's square */
+}
+
+.about-description {
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about-description {
+    margin-left: 0;
+    margin-top: 20px;
+  }
+}
