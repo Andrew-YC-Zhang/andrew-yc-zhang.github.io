@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-![profile](/image/profile1.jpg){: .align-right width="300px"}
+![profile](/images/profile1.jpg){: .align-right width="300px"}
 
 Hello, I'm Andrew!
 
