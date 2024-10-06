@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "profile2.jpg"
   name             : "Andrew Zhang<br>张运筹"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
