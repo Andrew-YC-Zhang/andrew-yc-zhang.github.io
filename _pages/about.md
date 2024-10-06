@@ -9,6 +9,8 @@ redirect_from:
 
 <br>
 
+![profile](/image/profile1.jpg){: .align-right width="300px"}
+
 Hello, I'm Andrew!
 
 I am currently a PhD candidate in Economics at the Faculty of Business and Economics, University of Hong Kong.
