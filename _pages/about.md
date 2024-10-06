@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="about-container">
   <div class="about-profile">
-    <img src="https://andrew-yc-zhang.github.io/images/profile1.jpg" alt="Profile Picture">
+    <img src="{{ site.baseurl }}/images/profile1.jpg" alt="Profile Picture">
   </div>
   <div class="about-description">
     <p>Hello, I'm Andrew!</p>
