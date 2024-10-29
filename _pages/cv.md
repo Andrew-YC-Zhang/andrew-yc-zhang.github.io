@@ -46,7 +46,7 @@ Teaching Assistant Experience
 Skills
 ======
 * **Language**: Mandarin (native), English (proficient), Cantonese (fluent)
-* **Software**: Proficient in Microsoft Office and Latex; Basic knowledge in Stata, MATLAB, R, SAS
+* **Software**: Microsoft Office, Latex, Stata, MATLAB, R, SAS
 
 References
 ======
