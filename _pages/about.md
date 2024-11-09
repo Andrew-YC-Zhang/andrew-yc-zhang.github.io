@@ -19,7 +19,7 @@ My research interests lie in organizational economics, contract theory, and pers
 
 I am on the job market for the 2024-2025 academic year. If you have any questions or would like to connect, please feel free to contact me via [email](mailto:zyc616@connect.hku.hk).
 
-
+I will present my paper "Optimal Talent Hoarding" at the poster session of ASSA 2025 Annual Meeting. If you are attending, please feel free to stop by and chat with me.
 
 
 
