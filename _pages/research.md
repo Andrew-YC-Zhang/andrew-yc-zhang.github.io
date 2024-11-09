@@ -15,7 +15,7 @@ author_profile: true
 ## Optimal Rule Enforcement (with [Hanzhe Li](https://sites.google.com/view/hanzheli) and [Jin Li](http://www.jin-li.org)) (*Job Market Paper*)
 
 
-## Optimal Talent Hoarding (with [Jin Li](http://www.jin-li.org))
+## Optimal Talent Hoarding (with [Jin Li](http://www.jin-li.org)) (*Poster Session at ASSA 2025 Annual Meeting*)
 
 
 <br>
