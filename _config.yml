@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew Yunchou Zhang"
+title                    : "Andrew Zhang"
 title_separator          : "-"
 name                     : &name "Andrew Yunchou Zhang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Andrew Zhang<br>张运筹"
+  name             : "Andrew Yunchou Zhang<br>张运筹"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
   location         : "Hong Kong"
