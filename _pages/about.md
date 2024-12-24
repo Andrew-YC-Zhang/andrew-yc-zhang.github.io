@@ -13,7 +13,7 @@ redirect_from:
 
 Hello, I'm Andrew!
 
-I am currently a PhD candidate in Economics at the Faculty of Business and Economics, University of Hong Kong.
+I am currently a PhD candidate in Economics at the Faculty of Business and Economics, University of Hong Kong (HKU).
 
 My research interests lie in organizational economics, contract theory, and personnel economics. In particular, my current research focuses on the challenges faced by middle managers in managing dynamic incentives. My job market paper develops a relational contracting model to investigate how managers selectively enforce rigid rules. 
 
