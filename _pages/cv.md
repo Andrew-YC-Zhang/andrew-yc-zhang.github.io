@@ -42,6 +42,13 @@ Teaching Assistant Experience
 * **Undergraduate**: Games and Decisions, Economics of Networks, Intermediate Macroeconomics
 * **MEcon**: Macroeconomic Analysis
 * **MBA**: Capstone Project
+
+Presentations
+======
+* Allied Social Science Associations (ASSA) Annual Meeting Poster Session 2025
+* 1st Asian Conference on Organizational Economics, University of Hong Kong 2025
+* 13th World Congress of the Econometric Society (ESWC) 2025 (scheduled)
+
  
 Skills
 ======
