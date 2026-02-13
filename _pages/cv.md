@@ -16,12 +16,20 @@ redirect_from:
 
 <br>
 
+Employment
+======
+* Postdoctoral Researcher, Goethe University Frankfurt, 2026 - 
+
 Education
 ======
-* PhD in Economics, University of Hong Kong, 2025 (expected)
+* PhD in Economics, University of Hong Kong, 2025
 * Master in Economics, University of Hong Kong, 2018
 * Bachelor of Economics and Finance (with First Class Honours), University of Hong Kong, 2016
   * Exchange Programme, McGill University - Desautels Faculty of Management, 2014
+
+Afflication
+======
+* Research Associate, HKU Centre for AI, Management and Organization ([CAMO](https://camo.hku.hk/))
 
 Research Interests
 ======
@@ -29,6 +37,7 @@ Research Interests
   
 Honors and Awards
 ======
+* Economics and Finance PhD Students Career Development Fund, 2025
 * Postgraduate Scholarships, 2018-2022
 * FBE PhD Entrance Scholarship, 2018-2019
 * First Class Honours, 2016
@@ -47,24 +56,9 @@ Presentations
 ======
 * Allied Social Science Associations (ASSA) Annual Meeting Poster Session 2025
 * 1st Asian Conference on Organizational Economics, University of Hong Kong 2025
-* 13th World Congress of the Econometric Society (ESWC) 2025 (scheduled)
+* 13th World Congress of the Econometric Society (ESWC) 2025
 
- 
 Skills
 ======
 * **Language**: Mandarin (native), English (proficient), Cantonese (fluent)
 * **Software**: Microsoft Office, Latex, Stata, MATLAB, R, SAS
-
-References
-======
-[Prof. Jin LI](https://www.hkubs.hku.hk/people/jin-li) <br>
-Faculty of Business and Economics <br>
-University of Hong Kong <br>
-
-[Prof. Yanhui WU](https://www.hkubs.hku.hk/people/yanhui-wu) <br>
-Faculty of Business and Economics <br>
-University of Hong Kong <br>
-
-[Prof. Michael B. WONG](https://www.hkubs.hku.hk/people/michael-b-wong/) <br>
-Faculty of Business and Economics <br>
-University of Hong Kong
