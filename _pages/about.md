@@ -13,11 +13,11 @@ redirect_from:
 
 Hello, I'm Andrew!
 
-I am currently a PhD candidate in Economics at the Faculty of Business and Economics, University of Hong Kong (HKU).
+I am a postdoctoral researcher at the Faculty of Economics and Business, Goethe University Frankfurt. I'm also affliated with HKU Center for AI, Management and Organization (CAMO).
 
-My research interests lie in organizational economics, contract theory, and personnel economics. In particular, my current research focuses on the challenges faced by middle managers in managing dynamic incentives. My job market paper develops a relational contracting model to investigate how managers selectively enforce rigid rules. 
+My research interests lie in organizational economics, contract theory, and personnel economics. My current reseasrch focuses on the AI impacts on organizations.
 
-I will present my paper titled "Optimal Rule Enforcement" in ESWC 2025. If you have any questions or would like to connect, please feel free to contact me via [email](mailto:zyc616@connect.hku.hk).
+If you have any questions or would like to connect, please feel free to contact me via [email](mailto:Y.Zhang@econ.uni-frankfurt.de).
 
 
 
