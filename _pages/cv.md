@@ -29,7 +29,7 @@ Education
 
 Afflication
 ======
-* Research Associate, HKU Centre for AI, Management and Organization ([CAMO](https://camo.hku.hk/))
+* Research Associate, HKU Centre for AI, Management and Organization ([CAMO](https://camo.hku.hk))
 
 Research Interests
 ======
