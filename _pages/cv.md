@@ -54,9 +54,11 @@ Teaching Assistant Experience
 
 Presentations
 ======
-* Allied Social Science Associations (ASSA) Annual Meeting Poster Session 2025
-* 1st Asian Conference on Organizational Economics, University of Hong Kong 2025
+* 30th Annual Conference of Society for Institutional and Organizational Economics (SIOE) 2026 (scheduled)
+* 23rd session of the Institutional and Organizational Economics Academy (IOEA) 2026
 * 13th World Congress of the Econometric Society (ESWC) 2025
+* 1st Asian Conference on Organizational Economics, University of Hong Kong 2025
+* Allied Social Science Associations (ASSA) Annual Meeting Poster Session 2025
 
 Skills
 ======
