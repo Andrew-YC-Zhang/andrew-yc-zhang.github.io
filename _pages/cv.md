@@ -27,7 +27,7 @@ Education
 * Bachelor of Economics and Finance (with First Class Honours), University of Hong Kong, 2016
   * Exchange Programme, McGill University - Desautels Faculty of Management, 2014
 
-Afflication
+Affiliation
 ======
 * Research Associate, HKU Centre for AI, Management and Organization ([CAMO](https://camo.hku.hk))
 
