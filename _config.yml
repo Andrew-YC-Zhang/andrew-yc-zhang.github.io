@@ -182,6 +182,28 @@ exclude:
   - README
   - tmp
   - vendor
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap/
+  - talkmap.py
+  - talkmap.ipynb
+  - "files/paper[1-3].pdf"
+  - "files/slides[1-3].pdf"
 keep_files:
   - .git
   - .svn
@@ -302,6 +324,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-redirect-from
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -310,6 +333,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-redirect-from
 
 
 # Archives

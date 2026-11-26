@@ -5,33 +5,32 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+## Working Papers
 
-<br>
+### Pyramids, Diamonds, and Oscillations: AI and the Structure of Internal Labor Markets
 
-# Working Papers
+With [Guido Friebel](https://www.guidofriebel.com/), [Yao Huang](https://yaohuang.org/), [Jin Li](https://www.jin-li.org/), and [Soumitra Shukla](https://soumitrashukla.github.io/).
 
-## [Pyramids, Diamonds, and Oscillations: AI and the Structure of Internal Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570519) 
+[Paper (PDF)](https://yaohuang.org/papers/pyramids-diamonds/pyramids-diamonds.pdf) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570519)
 
-with [Guido Friebel](https://www.guidofriebel.com), [Yao Huang](https://sites.google.com/view/yao-huang), [Jin Li](http://www.jin-li.org) and [Soumitra Shukla](https://soumitrashukla.github.io/) 
+*IOEA 2026 · [NBER Organizational Economics Working Group, Spring 2026](https://conference.nber.org/agenda/simple_printable?conf_id=OEs26) (presented by a coauthor)*
 
-*Presentation: IOEA 2026, NBER Org Econ Working Group Spring 2026 (by coauthor)*
+### AI v.s. Humans as Managers
 
-## AI v.s. Humans as Managers 
+With [Hanzhe Li](https://hanzheli2026.github.io/) and [Jin Li](https://www.jin-li.org/).
 
-with [Hanzhe Li](https://hanzheli2026.github.io) and [Jin Li](http://www.jin-li.org)
+[SIOE 2026 program and abstract](https://www.sioe.org/conference/2026/program/paper/1994-ai-vs-humans-as-managers)
 
-*Presentation: SIOE 2026 (scheduled)*
+### Governing Rules in Relational Contracts
 
-## Governing Rules in Relational Contracts 
+With [Hanzhe Li](https://hanzheli2026.github.io/) and [Jin Li](https://www.jin-li.org/).
 
-with [Hanzhe Li](https://hanzheli2026.github.io) and [Jin Li](http://www.jin-li.org)
+*Previously presented as “Optimal Rule Enforcement.”*
 
-*Presentation: ESWC 2025, SIOE 2025 (by coauthor)*
+[Asian Conference on Organizational Economics, 2025](https://www.hkubs.hku.hk/event/1st-asian-conference-on-organizational-economics-2/) · [ESWC 2025](https://video.mice-it.com/ESWC/ESWC%202025_Program%20Book.pdf) · [SIOE 2025](https://www.sioe.org/conference/2025/program/paper/1339-optimal-rule-enforcement) (presented by a coauthor)
 
-## Optimal Talent Hoarding 
+### Optimal Talent Hoarding
 
-with [Jin Li](http://www.jin-li.org) 
+With [Jin Li](https://www.jin-li.org/).
 
-*Presentation: [Poster Session](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiqhKfd2aGKAxU1oK8BHXEQKNsQFnoECA8QAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2025%2Fpreliminary%2Fpaper%2FRbT8f7Za&usg=AOvVaw1ioJSuN48m5LuvegePjFtT&cshid=1733988314740027&opi=89978449) at ASSA 2025 Annual Meeting*
-
+[ASSA 2025 poster (PDF)](https://www.aeaweb.org/conference/2025/program/paper/RbT8f7Za)

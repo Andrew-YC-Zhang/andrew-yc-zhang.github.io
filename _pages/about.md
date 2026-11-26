@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: "Andrew (Yunchou) Zhang · 张运筹"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-![profile](/images/profile1.jpg){: .align-right width="300px"}
+![Andrew Zhang](/images/profile1.jpg){: .align-right width="280px"}
 
 Hello, I'm Andrew!
 
